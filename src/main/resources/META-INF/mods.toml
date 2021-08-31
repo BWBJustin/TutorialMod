@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="All rights reserved"
+[[mods]]
+modId="tutorial"
+version="1.0.0"
+displayName="Tutorial Mod"
+credits="TurtyWurty, McJty"
+authors="BWBJustin"
+description="Tutorial Mod"
